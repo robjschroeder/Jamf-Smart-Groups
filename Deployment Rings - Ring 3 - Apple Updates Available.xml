@@ -28,21 +28,4 @@
             <closing_paren>false</closing_paren>
         </criterion>
     </criteria>
-    <computers>
-        <size>2</size>
-        <computer>
-            <id>9</id>
-            <name>C02GG09UMD8R</name>
-            <mac_address>00:0C:29:A1:3E:BE</mac_address>
-            <alt_mac_address>88:66:5A:58:28:3D</alt_mac_address>
-            <serial_number>C02GG09UMD8R</serial_number>
-        </computer>
-        <computer>
-            <id>10</id>
-            <name>C02GG09UMD7R</name>
-            <mac_address>00:0C:29:66:A4:90</mac_address>
-            <alt_mac_address></alt_mac_address>
-            <serial_number>C02GG09UMD7R</serial_number>
-        </computer>
-    </computers>
 </computer_group>
